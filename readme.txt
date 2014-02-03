@@ -55,9 +55,9 @@ Options "A" :  Your server Mysql eBot is different that website.
 				
 Ready You can configure Widget for connect on database Distant.
 
-======================================================================================================================================================================
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 				
-Options "B" :  eBot online (http://ebot.esport-tools.net/)        ==========>        En developpement pour avoir une connection vers la base sql de eBoT online 
+Options "B" :  eBot online (http://ebot.esport-tools.net/)       --------->        En developpement pour avoir une connection vers la base sql de eBoT online 
 
  ebot.esport-tools.net     	 IP-web
      ebot                  serveur web
@@ -66,7 +66,7 @@ Options "B" :  eBot online (http://ebot.esport-tools.net/)        ==========>   
     |    | <---------------> |    |
     |____|  mysql distant    |____|
 
-=======================================================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	
 Options "C" :  Your server Mysql eBot and website are the same.
 
@@ -77,7 +77,7 @@ Options "C" :  Your server Mysql eBot and website are the same.
     |        |
     |________|
 				
-Ready You can configure Widget for connect on database local with user and password  ======> (Exemple : user=ebotv3 password=ebotv3).  =================================
+Ready You can configure Widget for connect on database local with user and password  -------> (Exemple : user=ebotv3 password=ebotv3).  ----------------------------------
 
 4.Configure Number of matches to display
 
