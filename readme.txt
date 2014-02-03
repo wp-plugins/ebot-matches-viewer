@@ -1,4 +1,4 @@
-=== Simple Staff List ===
+=== eBot Matches Viewer ===
 Contributors: Boudjelal Yannick *Bouman*
 Tags: eBot, matche, matches, match, matchs, 
 Requires at least: 3.0
