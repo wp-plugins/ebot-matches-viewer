@@ -23,8 +23,8 @@ Simple and effective.
 == Installation ==
 
 1. Upload the `ebot-matches-viewer` folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Configure options
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Configure options
 
 Options "A" :  Your server Mysql eBot is different that website.
 
@@ -54,8 +54,10 @@ Options "A" :  Your server Mysql eBot is different that website.
 				/etc/init.d/mysql restart
 				
 Ready You can configure Widget for connect on database Distant.
+
+======================================================================================================================================================================
 				
-Options "B" :  eBot online (http://ebot.esport-tools.net/) In development.
+Options "B" :  eBot online (http://ebot.esport-tools.net/)        ==========>        En developpement pour avoir une connection vers la base sql de eBoT online 
 
  ebot.esport-tools.net     	 IP-web
      ebot                  serveur web
@@ -63,6 +65,8 @@ Options "B" :  eBot online (http://ebot.esport-tools.net/) In development.
     |    |    Connection     |    |
     |    | <---------------> |    |
     |____|  mysql distant    |____|
+
+=======================================================================================================================================================================
 	
 Options "C" :  Your server Mysql eBot and website are the same.
 
@@ -73,17 +77,15 @@ Options "C" :  Your server Mysql eBot and website are the same.
     |        |
     |________|
 				
-Ready You can configure Widget for connect on database local with user and password (Exemple : user=ebotv3 password=ebotv3).
+Ready You can configure Widget for connect on database local with user and password  ======> (Exemple : user=ebotv3 password=ebotv3).  =================================
 
-2.Configure Number of matches to display
+4.Configure Number of matches to display
 
 == Frequently Asked Questions ==
 
 Write at : ndjbouman@gmail.com
 
 == Screenshots ==
-1. Options Widget
-2. Widget Client view
 
 == Changelog ==
 = 1.5 = Preview
