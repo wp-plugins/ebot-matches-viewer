@@ -84,6 +84,8 @@ Ready You can configure Widget for connect on database local with user and passw
 Write at : ndjbouman@gmail.com
 
 == Screenshots ==
+1. View Client,
+2. View Options
 
 == Changelog ==
 = 1.5 = Preview
